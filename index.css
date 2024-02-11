@@ -1,0 +1,46 @@
+body {
+  background-color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
+}
+
+.nav-container ul li a {
+  font-size: 18px;
+  color: blue;
+  text-decoration: none;
+}
+
+header img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid rgb(115, 115, 201);
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: darkblue;
+}
+
+.center {
+  text-align: center;
+}
+
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  flex-direction: row;
+}
