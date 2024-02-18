@@ -4,4 +4,4 @@
 
 [x] - Criar uma estrutura HTML para o arquivo project.html e vincular ao arquivo index.html
 
-[] - New task
+[] - New task to new user
